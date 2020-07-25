@@ -2,28 +2,16 @@
 Created by Jahnavi Singh
 
 ### Purpose
-Assignments and practice problems to learn Python for Data Science projects. This repository does not teach how to code. However, learning can be enhanced by completing these assignments in conjuction with the following Coursera courses:
+Assignments and practice problems to learn Python for Data Science projects. Disclaimer: this repository does not teach coding. However, learning Python for Data Science tasks can be enhanced by completing repo assignments in conjuction with the following Coursera courses:
 1. [UMich Introduction to Data Science in Python Coursera](https://www.coursera.org/learn/python-data-analysis)
 2. [IBM Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization)
 
-### Topics Covered
-1. Introduction to Python ([Assignment 1](https://github.com/januusingh/data-science-in-python/tree/master/Assignment1/Assignment1))
-2. Introduction to Data Cleaning/ Manipulation ([Assignment 2](https://github.com/januusingh/data-science-in-python/tree/master/Assignment2/Assignment2))
-3. Introduction to Data Visualization ([Assignment 3](https://github.com/januusingh/data-science-in-python/tree/master/Assignment3/Assignment3))
+Relevant reading materials are also provided in each Assignment's README.md.
 
-### Reading Materials (from assignments)
-#### Intro to Python (Assignment 1)
-1. [Learn Python](https://www.learnpython.org/)
-#### Intro to Data Cleaning & Manipulation (Assignment 2)
-1. [Introduction to Pandas](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
-2. [Data Processing with COVID-19](https://towardsdatascience.com/covid-19-data-processing-58aaa3663f6)
-3. [Exploratory Data Analysis](https://towardsdatascience.com/exploratory-data-analysis-in-python-c9a77dfa39ce)
-#### Intro to Data Visualization (Assignment 3)
-1. [Intro to Matplotlib](https://heartbeat.fritz.ai/introduction-to-matplotlib-data-visualization-in-python-d9143287ae39#:~:text=Matplotlib%20is%20the%20most%20popular,the%20need%20for%20any%20GUIs.)
-2. [Intro to Plotly](https://towardsdatascience.com/introduction-to-interactive-time-series-visualizations-with-plotly-in-python-d3219eb7a7af)
-3. [Intro to Data Visualization in Python](https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a54c97fbed)
-4. [Data Visualization Principles](https://www.textbook.ds100.org/ch/06/viz_principles.html)
-5. [Visualization Principles](https://www.textbook.ds100.org/ch/06/viz_principles.html)
+### Topics Covered
+1. Introduction to Python ([Assignment 1](https://github.com/januusingh/data-science-in-python/tree/master/Assignment1))
+2. Introduction to Data Cleaning/ Manipulation ([Assignment 2](https://github.com/januusingh/data-science-in-python/tree/master/Assignment2))
+3. Introduction to Data Visualization ([Assignment 3](https://github.com/januusingh/data-science-in-python/tree/master/Assignment3))
 
 ### Additional Resources
 #### Python
