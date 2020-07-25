@@ -1,4 +1,13 @@
-# Python Visualization Packages
+# Introduction to Data Visualization
+
+### Reading Materials (from assignment)
+1. [Intro to Matplotlib](https://heartbeat.fritz.ai/introduction-to-matplotlib-data-visualization-in-python-d9143287ae39#:~:text=Matplotlib%20is%20the%20most%20popular,the%20need%20for%20any%20GUIs.)
+2. [Intro to Plotly](https://towardsdatascience.com/introduction-to-interactive-time-series-visualizations-with-plotly-in-python-d3219eb7a7af)
+3. [Intro to Data Visualization in Python](https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a54c97fbed)
+4. [Data Visualization Principles](https://www.textbook.ds100.org/ch/06/viz_principles.html)
+5. [Visualization Principles](https://www.textbook.ds100.org/ch/06/viz_principles.html)
+
+### Python Visualization Packages
 
 |Tool   |Languages/ Cheat Sheet|Pros |Cons | 
 |:------------|:-------------|:------|:------|
