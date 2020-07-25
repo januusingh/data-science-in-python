@@ -2,7 +2,7 @@
 Created by Jahnavi Singh
 
 ### Purpose
-Assignments and practice problems to learn Python for Data Science projects. Disclaimer: this repository does not teach coding. However, learning Python for Data Science tasks can be enhanced by completing repo assignments in conjuction with the following Coursera courses:
+This repo contains assignments and practice problems with answers to learn Python for Data Science projects. Disclaimer: this repository does not teach coding. However, learning Python for data science tasks can be enhanced by completing repo assignments in conjuction with the following Coursera courses:
 1. [UMich Introduction to Data Science in Python Coursera](https://www.coursera.org/learn/python-data-analysis)
 2. [IBM Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization)
 
