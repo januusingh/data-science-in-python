@@ -1,4 +1,4 @@
 # Introduction to Python
 
-### Reading Materials
+### Reading Materials (from assignment)
 1. [Learn Python](https://www.learnpython.org/)
