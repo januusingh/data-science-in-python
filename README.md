@@ -44,3 +44,6 @@ Assignments and practice problems to learn Python for Data Science projects. Thi
 - [Beg. Matplotlib Detailed Youtube Tutorial](https://www.youtube.com/watch?v=DAQNHzOcO5A)
 - [Adv. Matplotlib Detailed Youtube Tutorial](https://www.youtube.com/watch?v=0P7QnIQDBJY)
 6. Learning Python for Data Science
+- [Learning Python for Data Science Guide](https://elitedatascience.com/learn-python-for-data-science)
+- [Python for Data Science & Business Intelligence Guide](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/)
+- [All Coursera Python for Data Science Courses](https://www.coursera.org/courses?query=python%20data%20science)
