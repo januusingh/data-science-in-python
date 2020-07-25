@@ -12,15 +12,18 @@ Assignments and practice problems to learn Python for Data Science projects. Thi
 3. Introduction to Data Visualization ([Assignment 3](https://github.com/januusingh/data-science-in-python/tree/master/Assignment3/Assignment3))
 
 ### Reading Materials (from assignments)
-1. [Learn Python](https://www.learnpython.org/) (Assignment 1)
-2. [Introduction to Pandas](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/) (Assignment 2)
-3. [Data Processing with COVID-19](https://towardsdatascience.com/covid-19-data-processing-58aaa3663f6) (Assignment 2)
-4. [Intro to Matplotlib](https://heartbeat.fritz.ai/introduction-to-matplotlib-data-visualization-in-python-d9143287ae39#:~:text=Matplotlib%20is%20the%20most%20popular,the%20need%20for%20any%20GUIs.) (Assignment 3)
-5. [Intro to Plotly](https://towardsdatascience.com/introduction-to-interactive-time-series-visualizations-with-plotly-in-python-d3219eb7a7af) (Assignment 3) 
-6. [Intro to Data Visualization in Python](https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a54c97fbed) (Assignment 3)
-7. [Exploratory Data Analysis](https://towardsdatascience.com/exploratory-data-analysis-in-python-c9a77dfa39ce) (Assignment 3)
-8. [Data Visualization Principles](https://www.textbook.ds100.org/ch/06/viz_principles.html) (Assignment 3)
-9. [Visualization Principles](https://www.textbook.ds100.org/ch/06/viz_principles.html) (Assignment 3)
+#### Intro to Python (Assignment 1)
+1. [Learn Python](https://www.learnpython.org/)
+#### Intro to Data Cleaning & Manipulation (Assignment 2)
+1. [Introduction to Pandas](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
+2. [Data Processing with COVID-19](https://towardsdatascience.com/covid-19-data-processing-58aaa3663f6)
+3. [Exploratory Data Analysis](https://towardsdatascience.com/exploratory-data-analysis-in-python-c9a77dfa39ce)
+#### Intro to Data Visualization (Assignment 3)
+1. [Intro to Matplotlib](https://heartbeat.fritz.ai/introduction-to-matplotlib-data-visualization-in-python-d9143287ae39#:~:text=Matplotlib%20is%20the%20most%20popular,the%20need%20for%20any%20GUIs.)
+2. [Intro to Plotly](https://towardsdatascience.com/introduction-to-interactive-time-series-visualizations-with-plotly-in-python-d3219eb7a7af)
+3. [Intro to Data Visualization in Python](https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a54c97fbed)
+4. [Data Visualization Principles](https://www.textbook.ds100.org/ch/06/viz_principles.html)
+5. [Visualization Principles](https://www.textbook.ds100.org/ch/06/viz_principles.html)
 
 ### Additional Resources
 #### Python
